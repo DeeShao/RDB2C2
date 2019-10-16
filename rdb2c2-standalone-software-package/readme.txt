@@ -1,4 +1,5 @@
-Before you use our RDB2C2. Please download the model from our website.
+Before you use our RDB2C2. Please download the full package from our website: http://structpred.life.tsinghua.edu.cn/Software.html.
+
 There are two steps to use our software RDB2C2.
 Let's use 1a3a protein as an example and put the sequence file under the file folder 'sequence': ./rdb2c2/sequence/1a3a
 STEP 1:
